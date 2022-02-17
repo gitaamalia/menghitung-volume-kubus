@@ -20,9 +20,9 @@
       while True:
         try:
           p = int(input("Masukkan Panjang : "))
-          l = int(input("Masukkan Lebar : "))
+        l = int(input("Masukkan Lebar : "))
            except ValueError
-            print("Input Tidak Valid")
+          print("Input Tidak Valid")
         else:
            luas        = p * l
             keliling    = 2 * (p + l)
