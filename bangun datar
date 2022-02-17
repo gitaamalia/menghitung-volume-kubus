@@ -1,8 +1,8 @@
 def persegi():
 while True:
     try:
-            s = int(input("Masukkan Sisi : "))
-        except ValueError
+         s = int(input("Masukkan Sisi : "))
+    except ValueError
             print("Input Tidak Valid")
         else:
             luas        = s * s
