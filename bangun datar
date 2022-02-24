@@ -1,3 +1,4 @@
+# Bangun datar persegi
 def persegi():
 while True:
     try:
