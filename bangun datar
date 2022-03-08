@@ -21,7 +21,7 @@ while True:
             print("Input Tidak Valid")
     else:
             luas        = p * l
-            keliling    = 2 * (p + l)
+              keliling    = 2 * (p + l)
             hasil       = [luas, keliling]
         break
     return hasil 
