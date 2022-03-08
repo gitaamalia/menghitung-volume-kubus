@@ -12,16 +12,16 @@
         break
      return hasil  
 
- def persegipanjang():
-    while True:
-        try:
+def persegipanjang():
+while True:
+     try:
             p = int(input("Masukkan Panjang : "))
             l = int(input("Masukkan Lebar : "))
-        except ValueError
+    except ValueError
             print("Input Tidak Valid")
-        else:
+    else:
             luas        = p * l
-            keliling    = 2 * (p + l)
+              keliling    = 2 * (p + l)
             hasil       = [luas, keliling]
         break
     return hasil 
