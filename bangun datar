@@ -12,7 +12,7 @@
         break
      return hasil  
 
-def persegipanjang():
+ def persegipanjang():
     while True:
         try:
             p = int(input("Masukkan Panjang : "))
@@ -26,7 +26,7 @@ def persegipanjang():
         break
     return hasil 
 
-def segitiga():
+ def segitiga():
     while True:
         try:
             a = int(input("Masukkan Alas : "))
