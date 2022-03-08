@@ -1,16 +1,16 @@
 # Bangun datar persegi
-def persegi():
-while True:
-    try:
+ def persegi():
+ while True:
+     try:
          s = int(input("Masukkan Sisi : "))
-    except ValueError
+     except ValueError
             print("Input Tidak Valid")
         else:
             luas        = s * s
             keliling    = 4 * s
             hasil       = [luas, keliling]
         break
-    return hasil  
+     return hasil  
 
 def persegipanjang():
     while True:
