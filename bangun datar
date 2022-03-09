@@ -10,7 +10,7 @@
             keliling    = 4 * s
             hasil       = [luas, keliling]
         break
-     return hasil  
+return hasil  
 
 def persegipanjang():
 while True:
