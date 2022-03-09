@@ -15,9 +15,9 @@
 def persegipanjang():
 while True:
      try:
-            p = int(input("Masukkan Panjang : "))
-            l = int(input("Masukkan Lebar : "))
-    except ValueError
+        p = int(input("Masukkan Panjang : "))
+     l = int(input("Masukkan Lebar : "))
+except ValueError
             print("Input Tidak Valid")
     else:
             luas        = p * l
